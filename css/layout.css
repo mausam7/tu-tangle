@@ -1,0 +1,95 @@
+.container{
+  width: 1100px;
+  margin: 0 auto;
+  background: gray;
+}
+.header-wrapper{
+  background: yellow;
+}
+.logo-search-wrapper{
+  width: 800px;
+  /*background: pink;*/
+  /*border: 1px solid black;*/
+  float: left;
+}
+.logo-wrapper{
+  width: 300px;
+/*  background: green;*/
+  float: left;
+  border: 1px solid black;
+}
+.search-wrapper{
+width: 500px;
+background: red;
+float: right;
+border: 1px solid black;
+}
+.user-wrapper{
+  width: 300px;
+  float: right;
+  border: 1px solid black
+  /*background: red;*/
+}
+.navbar-wrapper{
+  width: 1100px;
+  margin: 0 auto;
+  background: blue;
+}
+.navbar-list-wrapper{
+  background: green;
+    width: 700px;
+  border: 1px solid black;
+  float: left;
+}
+.user-info-wrapper{
+/*  background: purple;*/
+  width: 400px;
+border: 1px solid black;
+float: right;
+}
+.body-wrapper{
+  width: 1100px;
+  margin: 0 auto;
+  background: yellow;
+}
+.sidebar-wrapper{
+  width: 800px;
+  margin: 0 auto;
+  background: red;
+  float: left;
+}
+.left-sidebar-wrapper{
+  background: blue;
+  width: 300px;
+border: 1px solid black;
+float: left;
+}
+.middle-content-wrapper{
+/*  background: green;*/
+  width: 500px;
+border: 1px solid black;
+float: right;
+}
+.right-sidebar-wrapper{
+/*  background: red;*/
+  width: 300px;
+border: 1px solid black;
+float: right;
+}
+.footer-wapper{
+  /*background: yellow;*/
+  width: 1100px;
+  margin: 0 auto;
+}
+.left-footer-wrapper{
+background: pink;
+width: 600px;
+border: 1px solid black;
+float: left;
+}
+.right-footer-wrapper{
+  background: green;
+  width: 500px;
+border: 1px solid black;
+float: right;
+}
